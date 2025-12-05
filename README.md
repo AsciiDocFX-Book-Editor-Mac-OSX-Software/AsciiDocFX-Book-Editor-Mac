@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://static.macupdate.com/products/57410/m/asciidocfx-logo.png?v=1668089644" width="200"><br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhThLDvvb69By9SeAGfkZgxkbGjLP2dRZMMg&s" width="200"><br>
 <a href="https://mac-share-apps.github.io/.github/asciidocfx-book-editor">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
